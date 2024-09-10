@@ -9,6 +9,8 @@ sites:
     url: https://the-once-times.vercel.app/
   - name: OnceAI
     url: https://ai.ionce.me/
+  - name: Once-Central
+    url: https://www.ionce.me/
     port: 80
     check: "tcp-ping"
     ipv6: true
