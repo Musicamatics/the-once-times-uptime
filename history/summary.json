@@ -4,36 +4,40 @@
     "url": "https://times.ionce.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/times.ionce.xyz.ico",
     "slug": "the-once-times-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1799,
-    "timeDay": 2245,
-    "timeWeek": 2150,
-    "timeMonth": 1964,
-    "timeYear": 1799,
-    "dailyMinutesDown": {}
+    "time": 1773,
+    "timeDay": 1173,
+    "timeWeek": 1894,
+    "timeMonth": 1906,
+    "timeYear": 1773,
+    "dailyMinutesDown": {
+      "2024-11-09": 0
+    }
   },
   {
     "name": "The Once Times 2",
     "url": "https://the-once-times.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/the-once-times.vercel.app.ico",
     "slug": "the-once-times-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 468,
-    "timeDay": 354,
-    "timeWeek": 398,
-    "timeMonth": 451,
-    "timeYear": 468,
-    "dailyMinutesDown": {}
+    "time": 465,
+    "timeDay": 314,
+    "timeWeek": 382,
+    "timeMonth": 446,
+    "timeYear": 465,
+    "dailyMinutesDown": {
+      "2024-11-09": 0
+    }
   },
   {
     "name": "OnceAI",
@@ -72,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-09": 71,
+      "2024-11-09": 679,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
