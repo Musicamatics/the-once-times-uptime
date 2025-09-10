@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/times.ionce.xyz.ico",
     "slug": "the-once-times-1",
     "status": "down",
-    "uptime": "34.32%",
+    "uptime": "34.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.32%",
+    "uptimeYear": "34.23%",
     "time": 1250,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2025-09-09": 81,
+      "2025-09-10": 78,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -273,9 +274,9 @@
     "uptimeMonth": "93.13%",
     "uptimeYear": "99.20%",
     "time": 1709,
-    "timeDay": 2693,
-    "timeWeek": 1953,
-    "timeMonth": 1784,
+    "timeDay": 1512,
+    "timeWeek": 1895,
+    "timeMonth": 1785,
     "timeYear": 1709,
     "dailyMinutesDown": {
       "2025-09-04": 53,
@@ -307,17 +308,16 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 1880,
-    "timeDay": 2065,
-    "timeWeek": 1557,
-    "timeMonth": 1758,
+    "timeDay": 1792,
+    "timeWeek": 1525,
+    "timeMonth": 1744,
     "timeYear": 1880,
     "dailyMinutesDown": {
       "2025-09-04": 51,
       "2025-09-03": 19,
       "2025-08-30": 17,
       "2025-08-28": 34,
-      "2025-08-26": 43,
-      "2024-09-10": 18
+      "2025-08-26": 43
     }
   },
   {
@@ -337,7 +337,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-09": 81,
+      "2025-09-10": 78,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -700,8 +701,7 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
-      "2024-09-11": 1440,
-      "2024-09-10": 1248
+      "2024-09-11": 1440
     }
   }
 ]
