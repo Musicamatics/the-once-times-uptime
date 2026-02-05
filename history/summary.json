@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/times.ionce.xyz.ico",
     "slug": "the-once-times-1",
     "status": "down",
-    "uptime": "24.40%",
+    "uptime": "24.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1201,
+    "time": 1193,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 120,
+      "2026-02-05": 122,
+      "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -379,8 +380,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 1440,
-      "2025-02-05": 1440
+      "2025-02-06": 1440
     }
   },
   {
@@ -391,14 +391,14 @@
     "status": "up",
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.20%",
-    "time": 1767,
-    "timeDay": 2860,
-    "timeWeek": 1963,
-    "timeMonth": 1808,
-    "timeYear": 2042,
+    "time": 1766,
+    "timeDay": 1527,
+    "timeWeek": 2065,
+    "timeMonth": 1814,
+    "timeYear": 2041,
     "dailyMinutesDown": {
       "2026-01-28": 32,
       "2025-12-10": 34,
@@ -433,10 +433,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1910,
-    "timeDay": 2102,
-    "timeWeek": 2049,
-    "timeMonth": 1792,
-    "timeYear": 2000,
+    "timeDay": 2096,
+    "timeWeek": 2063,
+    "timeMonth": 1806,
+    "timeYear": 1998,
     "dailyMinutesDown": {
       "2025-12-10": 34,
       "2025-10-31": 22,
@@ -467,7 +467,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 120,
+      "2026-02-05": 122,
+      "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -830,8 +831,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 1440,
-      "2025-02-05": 1440
+      "2025-02-06": 1440
     }
   }
 ]
