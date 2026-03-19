@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/times.ionce.xyz.ico",
     "slug": "the-once-times-1",
     "status": "down",
-    "uptime": "22.55%",
+    "uptime": "22.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 751,
+    "time": 731,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-18": 128,
+      "2026-03-19": 129,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -379,8 +380,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/the-once-times.vercel.app.ico",
     "slug": "the-once-times-2",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
-    "time": 1823,
-    "timeDay": 1269,
-    "timeWeek": 1494,
-    "timeMonth": 1598,
-    "timeYear": 1966,
+    "time": 1824,
+    "timeDay": 1118,
+    "timeWeek": 1516,
+    "timeMonth": 1609,
+    "timeYear": 1962,
     "dailyMinutesDown": {
       "2026-01-28": 32,
       "2025-12-10": 34,
@@ -431,11 +431,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1917,
-    "timeDay": 1046,
-    "timeWeek": 1896,
-    "timeMonth": 1904,
-    "timeYear": 1977,
+    "time": 1916,
+    "timeDay": 1083,
+    "timeWeek": 1745,
+    "timeMonth": 1920,
+    "timeYear": 1974,
     "dailyMinutesDown": {
       "2025-12-10": 34,
       "2025-10-31": 22,
@@ -466,7 +466,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-18": 128,
+      "2026-03-19": 129,
+      "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
@@ -829,8 +830,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
-      "2025-03-20": 1440,
-      "2025-03-19": 1440
+      "2025-03-20": 1440
     }
   }
 ]
