@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/times.ionce.xyz.ico",
     "slug": "the-once-times-1",
     "status": "down",
-    "uptime": "21.65%",
+    "uptime": "21.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 245,
+    "time": 203,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-10": 150,
+      "2026-04-11": 129,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -379,8 +380,7 @@
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 1440
+      "2025-04-12": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.21%",
     "time": 1853,
-    "timeDay": 1074,
-    "timeWeek": 1119,
-    "timeMonth": 1266,
-    "timeYear": 1906,
+    "timeDay": 574,
+    "timeWeek": 1102,
+    "timeMonth": 1269,
+    "timeYear": 1902,
     "dailyMinutesDown": {
       "2026-01-28": 32,
       "2025-12-10": 34,
@@ -431,11 +431,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1927,
-    "timeDay": 444,
-    "timeWeek": 1883,
-    "timeMonth": 1901,
-    "timeYear": 1979,
+    "time": 1926,
+    "timeDay": 1816,
+    "timeWeek": 1787,
+    "timeMonth": 1897,
+    "timeYear": 1977,
     "dailyMinutesDown": {
       "2025-12-10": 34,
       "2025-10-31": 22,
@@ -466,7 +466,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-10": 150,
+      "2026-04-11": 129,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -829,8 +830,7 @@
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 1440
+      "2025-04-12": 1440
     }
   }
 ]
