@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/times.ionce.xyz.ico",
     "slug": "the-once-times-1",
     "status": "down",
-    "uptime": "19.70%",
+    "uptime": "19.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 205,
+      "2026-06-07": 232,
+      "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -379,8 +380,7 @@
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
-      "2025-06-08": 1440,
-      "2025-06-07": 1440
+      "2025-06-08": 1440
     }
   },
   {
@@ -391,14 +391,14 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.11%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.29%",
-    "time": 1825,
-    "timeDay": 483,
-    "timeWeek": 837,
-    "timeMonth": 552,
-    "timeYear": 1709,
+    "time": 1822,
+    "timeDay": 621,
+    "timeWeek": 928,
+    "timeMonth": 556,
+    "timeYear": 1704,
     "dailyMinutesDown": {
       "2025-07-06": 42,
       "2025-07-20": 57,
@@ -430,10 +430,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1910,
-    "timeDay": 2014,
-    "timeWeek": 1824,
-    "timeMonth": 1514,
+    "time": 1909,
+    "timeDay": 1843,
+    "timeWeek": 1767,
+    "timeMonth": 1517,
     "timeYear": 1890,
     "dailyMinutesDown": {
       "2025-08-26": 43,
@@ -465,7 +465,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-06": 205,
+      "2026-06-07": 232,
+      "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
@@ -828,8 +829,7 @@
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
-      "2025-06-08": 1440,
-      "2025-06-07": 1440
+      "2025-06-08": 1440
     }
   }
 ]
