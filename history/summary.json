@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/times.ionce.xyz.ico",
     "slug": "the-once-times-1",
     "status": "down",
-    "uptime": "15.51%",
+    "uptime": "15.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 512,
+      "2026-11-25": 427,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -379,8 +380,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -389,22 +389,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/the-once-times.vercel.app.ico",
     "slug": "the-once-times-2",
     "status": "down",
-    "uptime": "83.85%",
+    "uptime": "83.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.19%",
-    "time": 1128,
-    "timeDay": 106,
-    "timeWeek": 62,
-    "timeMonth": 78,
-    "timeYear": 849,
+    "uptimeYear": "64.93%",
+    "time": 1126,
+    "timeDay": 101,
+    "timeWeek": 74,
+    "timeMonth": 81,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2025-12-10": 34,
       "2026-01-28": 32,
       "2026-04-13": 124,
       "2026-05-30": 291,
-      "2026-11-24": 512,
+      "2026-11-25": 427,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -545,11 +546,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1798,
-    "timeDay": 1741,
-    "timeWeek": 1961,
-    "timeMonth": 1986,
-    "timeYear": 1740,
+    "time": 1800,
+    "timeDay": 1850,
+    "timeWeek": 1869,
+    "timeMonth": 2000,
+    "timeYear": 1739,
     "dailyMinutesDown": {
       "2025-12-10": 34
     }
@@ -571,7 +572,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 512,
+      "2026-11-25": 427,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -934,8 +936,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   }
 ]
